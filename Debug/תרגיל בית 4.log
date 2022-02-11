@@ -1,0 +1,8 @@
+﻿  main.c
+C:\Users\David\OneDrive - ort braude college of engineering\בראודה\סמסטר ב'\מבוא לתכנות מערכות\תרגילי בית\תרגיל בית 4\main.c(36,21): warning C4047: 'function': 'PManot *' differs in levels of indirection from 'PManot (*)[50]'
+C:\Users\David\OneDrive - ort braude college of engineering\בראודה\סמסטר ב'\מבוא לתכנות מערכות\תרגילי בית\תרגיל בית 4\main.c(36,15): warning C4024: 'RemoveItem': different types for formal and actual parameter 1
+C:\Users\David\OneDrive - ort braude college of engineering\בראודה\סמסטר ב'\מבוא לתכנות מערכות\תרגילי בית\תרגיל בית 4\main.c(40,22): warning C4047: 'function': 'PManot *' differs in levels of indirection from 'PManot (*)[50]'
+C:\Users\David\OneDrive - ort braude college of engineering\בראודה\סמסטר ב'\מבוא לתכנות מערכות\תרגילי בית\תרגיל בית 4\main.c(40,16): warning C4024: 'RemoveTable': different types for formal and actual parameter 1
+C:\Users\David\OneDrive - ort braude college of engineering\בראודה\סמסטר ב'\מבוא לתכנות מערכות\תרגילי בית\תרגיל בית 4\main.c(48,19): warning C4047: 'function': 'PManot *' differs in levels of indirection from 'PManot (*)[50]'
+C:\Users\David\OneDrive - ort braude college of engineering\בראודה\סמסטר ב'\מבוא לתכנות מערכות\תרגילי בית\תרגיל בית 4\main.c(48,13): warning C4024: 'freeTables': different types for formal and actual parameter 1
+  תרגיל בית 4.vcxproj -> C:\Users\David\OneDrive - ort braude college of engineering\בראודה\סמסטר ב'\מבוא לתכנות מערכות\תרגילי בית\תרגיל בית 4\Debug\תרגיל בית 4.exe
